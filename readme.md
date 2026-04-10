@@ -1,5 +1,5 @@
 
-<p align="center">
+
 ![blackshot-online-wallpaper-preview](https://github.com/user-attachments/assets/fc56fc0a-d4d8-49d6-9724-fc6d680a2cbe)
 
 
