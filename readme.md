@@ -1,7 +1,8 @@
 
 
-![blackshot-online-wallpaper-preview](https://github.com/user-attachments/assets/fc56fc0a-d4d8-49d6-9724-fc6d680a2cbe)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc56fc0a-d4d8-49d6-9724-fc6d680a2cbe" alt="BlackShot Banner" width="900"/>
+</p>
 
 </p>
 
